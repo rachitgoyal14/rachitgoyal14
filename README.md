@@ -8,15 +8,17 @@
 +   |__________|  And YOU are visiting my Github Profile.   +
 +   |_|______|_|                                            +
 +                                                           +
-+                Currently learning RAG!                    +
++      >>> exploring AI, one token at a time...             +
 +                                                           +
 +                                                           +
 ```
 
 hey there! im **rachit**
 
-right now im deep in the RAG rabbit hole (retrieval-augmented generation for the uninitiated)
+right now im deep in the RAG rabbit hole 
 
 i write stuff sometimes → [rachitgoyal.hashnode.dev](https://rachitgoyal.hashnode.dev)
+
+---
 
 *building cool things, one commit at a time*
