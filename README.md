@@ -15,7 +15,6 @@
 
 hey there! im **rachit**
 
-right now im deep in the RAG rabbit hole 
 
 i write stuff sometimes → [rachitgoyal.hashnode.dev](https://rachitgoyal.hashnode.dev)
 
