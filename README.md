@@ -16,7 +16,7 @@
 hey there! im **rachit**
 
 
-i write stuff sometimes → [rachitgoyal.hashnode.dev](https://rachitgoyal.hashnode.dev)
+i write stuff sometimes → [rachitgoyal.in/blog](https://rachitgoyal.in/blog)
 
 ---
 
